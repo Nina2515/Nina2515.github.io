@@ -1,0 +1,175 @@
+body{
+          
+    text-align: center;
+    font-family: sans-serif;
+    background-image: linear-gradient(#161569,#2F3F80,#505488,#00B7D4);
+}
+
+
+
+.header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.head{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 67px;
+    background: #171717;
+    position:fixed;
+    width: 100px;
+    z-index: 100;
+}
+
+.navbar{
+    display:flex;
+    margin-right: 10px;
+    background: #171717;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 67px;
+    position:fixed;
+    width: 100px;
+    z-index: 100;
+}
+
+.Logo{
+    margin-left: 30px;
+}
+
+
+.Logo a{
+    text-decoration: none;
+    color:#ff80ff;
+    text-transform: uppercase;
+    font-size: 20px;
+}
+
+.navbar a{
+    display:block;
+    padding:23px 20px;
+    color:antiquewhite;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-size:20px;
+
+}
+
+.navbar a:hover{
+    background: #505488;
+
+}
+
+.header{
+    display:center; 
+    justify-content: center;
+    align-items:center;
+}
+
+.header{
+    height:60vh !important; 
+    background: url(img/header.jpg) no-repeat center;
+    background-size: cover;
+}
+
+.title{
+    margin-bottom:20px; 
+    font-size:62px;
+    font-weight: 10px;
+    text-transform: uppercase;
+}
+
+#particles{
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    z-index:0;
+}
+
+h1{
+   color: #e600ac;
+     text-shadow: 1.5px 1.5px 2px black;
+     position:center;
+}
+
+h2{
+     text-shadow: 1.5px 1.5px 2px black ; 
+     position: center;
+     color: #e600ac;
+}
+
+h3{
+    color: #e600ac;
+      text-shadow: 1.5px 1.5px 2px black;
+      position:left;
+}
+img{
+
+    border-radius: 8px ;
+    }
+
+    .img{
+        width:100px; 
+        height:100px; 
+
+}
+
+table, th, td{
+
+    border-collapse: collapse;
+    width: 100px;
+    
+border-color: #660066;
+border-radius: 3px;
+color: #e600ac;
+text-shadow: 1.5px 1.5px 2px black;
+
+}
+
+th{
+    color:#660066;
+    
+}
+
+a{
+    display:block;
+    width:50px; 
+    font-family:Arial,Helvetica,sans-serif; 
+    font-weight:700;
+    border-radius:10px;
+    margin:150px 130px; 
+    padding:15px 30px; 
+    background-color:#7a36d4;
+    color:#fff;
+    text-decoration:none;
+}
+
+a:hover{
+    background-color:transparent;
+    border:2px solid #7a36d4;
+    color:#7a36d4;
+}
+
+p{
+background-image: url('https://www.itprotoday.com/sites/itprotoday.com/files/programming.jpg');
+color:#fff;
+}
+
+body{
+background-image: url('https://cs.ucsb.edu/sites/default/files/2021-06/source-4280758_1920.jpg');
+
+}
+
+li{
+    color: #e600ac;
+text-shadow: 1.5px 1.5px 2px black;
+
+}
+
+
+
